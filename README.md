@@ -1,5 +1,3 @@
-# react-redux-axios-example
-
 ### React app to search github with axios, uses redux and caching implemented with redux-persist. Displays result in infinite scrolling.
 
 ## 🏃🏻‍♂️ Running the App:

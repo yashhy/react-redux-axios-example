@@ -24,7 +24,7 @@ class ErrorBoundary extends Component {
         <br/>
         <br/>
         <br />
-        Click <a href="/github-search">here</a> to go back!
+        Click <a href="/">here</a> to go back!
       </Fragment>
     }
     return this.props.children;
