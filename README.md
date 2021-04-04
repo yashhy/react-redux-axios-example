@@ -31,4 +31,4 @@ This should open up a browser page http://localhost:3000/
 
 ## Demo
 
-To be updated...
+https://yashhy.github.io/react-redux-axios-demo
